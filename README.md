@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a matrix calculator and looking to improve it into a useful application for the public.<br>🤝 I’m looking for help with linear algebra and implementing it into code to improve my application.<br>🌱 I’m currently studying as a first year student in Computer Sciences and learning python and HTML.<br>🎓 I’ve learnt Delphi and SQL in high school.<br>🥅 I’m planning on learning C++ and Java Script in a later stage.<br>💡 I’m always looking to improve my skills with the help of others and their knowledge.
+🔭 I’m currently working on a matrix calculator and looking to improve it into a useful application for the public.<br>🤝 I’m looking for help with linear algebra and implementing it into code to improve my application.<br>🌱 I’m currently studying as a first year student in IT and learning python and HTML.<br>🎓 I’ve learnt Delphi and SQL in high school.<br>🥅 I’m planning on learning C++ and Java Script in a later stage.<br>💡 I’m always looking to improve my skills with the help of others and their knowledge.
 
 
 ## 🌐 Socials:
