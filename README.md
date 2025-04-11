@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BSc IT 2nd Year Student<br>🔭 Project center for most of my work<br>📖 Currently learning C#, Rust, C++<br>
+🎓 BSc IT 2nd Year Student<br>🔭 Project center for most of my work<br>📖 Currently learning C#, C++, PHP<br>
 
 
 ## 🌐 Socials:
