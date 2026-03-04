@@ -1,3 +1,6 @@
+### ![My Website](https://chester-xx.github.io/) 
+![](https://img.shields.io/badge/Site-Operational-9ece6a?style=flat-square&logo=github&logoColor=9ece6a&labelColor=1a1b2e)
+
 
 # 💫 About Me:
 🎓 Software Engineering Student<br>🔭 Exploring interests in Embedded Systems & Systems Engineering<br>📑 Current Focus in Software Projects<br>🗞️ Goals: C, OpenGL, Qt Framework, IoT in Agriculture<br>
@@ -10,9 +13,9 @@
 ---
 
 ### 📊 GitHub
-![](https://github-readme-stats.vercel.app/api?username=Chester-xx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats-fast.vercel.app/api?username=Chester-xx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chester-xx&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chester-xx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Chester-xx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
