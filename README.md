@@ -1,4 +1,4 @@
-<h3><a href="bychester.dev">Portfolio<a/><h3/>
+<h3><a href="bychester.dev/">Portfolio<a/><h3/>
   
 ![](https://img.shields.io/badge/Site-Operational-9ece6a?style=flat-square&logo=github&logoColor=9ece6a&labelColor=1a1b2e)
 
