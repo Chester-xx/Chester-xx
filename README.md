@@ -18,9 +18,9 @@ Exploring **Qt** and **C**
 
 <img src="assets/label-github.svg" alt="GitHub Activity" />
 
-<p>
-  <img src="https://raw.githubusercontent.com/Chester-xx/Chester-xx/status/stats.svg" height="165" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/Chester-xx/Chester-xx/status/streak.svg" height="165" alt="GitHub streak" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chester-xx/Chester-xx/status/stats.svg" width="49%" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Chester-xx/Chester-xx/status/streak.svg" width="49%" alt="GitHub streak" />
 </p>
 
 <p align="center">
