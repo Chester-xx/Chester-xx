@@ -1,24 +1,33 @@
-<h3><a href="https://bychester.dev/">Portfolio<a/><h3/>
-  
-![](https://img.shields.io/badge/Site-Operational-9ece6a?style=flat-square&logo=github&logoColor=9ece6a&labelColor=1a1b2e)
+<img src="assets/header.svg" width="100%" alt="Wireframe icosahedron slowly rotating" />
 
+<p>
+  <a href="https://bychester.dev/"><img src="assets/btn-portfolio.svg" height="44" alt="Selected Work" /></a>
+  &nbsp;
+  <a href="https://lightsout.org.za/"><img src="assets/btn-lightsout.svg" height="44" alt="Lights Out" /></a>
+</p>
 
-# 💫 About Me:
-🎓 Software Engineering Student<br>🔭 Exploring interests in Embedded Systems & Systems Engineering<br>📑 Current Focus in Software Projects<br>🗞️ Goals: C, OpenGL, Qt Framework, IoT in Agriculture<br>
+<br />
 
----
+<img src="assets/label-about.svg" alt="" />
 
-### 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+Software Engineering & Embedded Systems Enthusiast<br>
+Drawn to Systems Engineering & Cyber Security<br>
+Exploring **Qt** and **C**
 
----
+<br />
 
-### 📊 GitHub
-![](https://github-readme-stats-fast.vercel.app/api?username=Chester-xx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Chester-xx&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Chester-xx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img src="assets/label-github.svg" alt="GitHub Activity" />
 
----
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+  <img src="https://raw.githubusercontent.com/Chester-xx/Chester-xx/status/stats.svg" height="165" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Chester-xx/Chester-xx/status/streak.svg" height="165" alt="GitHub streak" />
+</p>
+<img src="https://raw.githubusercontent.com/Chester-xx/Chester-xx/status/top-langs.svg" alt="Top languages" />
 
----
+<br />
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
+
+<img src="assets/footer.svg" width="100%" alt="Field of wireframe polyhedra slowly rotating" />
