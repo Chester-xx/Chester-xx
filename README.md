@@ -22,10 +22,9 @@ Exploring **Qt** and **C**
   <img src="https://raw.githubusercontent.com/Chester-xx/Chester-xx/status/stats.svg" width="49%" alt="GitHub stats" />
   <img src="https://raw.githubusercontent.com/Chester-xx/Chester-xx/status/streak.svg" width="49%" alt="GitHub streak" />
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Chester-xx/Chester-xx/status/top-langs.svg" alt="Top languages" />
-<p/>
+</p>
 
 <br />
 
